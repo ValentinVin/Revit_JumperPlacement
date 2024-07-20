@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>Jumpers.dll</Assembly>
+    <ClientId>4bd1eab1-488d-4eea-ac11-9133ab72d542</ClientId>
+    <FullClassName>Jumpers.NewFamilyInstance_Jumpers</FullClassName>
+    <Text>NewFamilyInstance_Jumpers</Text>
+    <Description>""</Description>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
